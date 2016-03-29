@@ -1,3 +1,4 @@
+
 > pngquant pipeline for minify image using [node-pngquant-native](https://www.npmjs.com/package/node-pngquant-native)
 
 ### Useage
@@ -23,4 +24,5 @@ fs.createReadStream('src/images/xxx.png')
 ```
 
 ### Options
-see [node-pngquant-native](https://www.npmjs.com/package/node-pngquant-native)
+see [node-pngquant-native](https://www.npmjs.com/package/node-pngquant-native)([github](https://github.com/xiangshouding/node-pngquant-native))
+ 
