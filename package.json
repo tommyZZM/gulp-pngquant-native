@@ -1,0 +1,15 @@
+{
+  "name": "gulp-pngquant-native",
+  "version": "0.1.0",
+  "description": "pngquant pipeline for minify image using node-pngquant-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.1",
+    "node-pngquant-native": "^1.0.3"
+  }
+}
